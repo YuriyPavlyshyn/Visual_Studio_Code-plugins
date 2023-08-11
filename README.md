@@ -79,6 +79,17 @@ https://tailwindcss.com/docs/installation
 https://heroicons.com/
 ~~~
 
+### Bootstrap 5 & Font Awesome Snippets
+~~~
+Перше (єдине наразі) і НАЙКРАЩЕ розширення для початкового
+завантаження 5 фрагментів. Включає шаблони, потужні фрагменти
+службових програм і багато іншого.
+Документація стосовно фреймворку: 
+https://tailwindcss.com/docs/
+Ресурс із іконками спеціально для роботи з фреймворком bootatrap 5: 
+https://icons.getbootstrap.com/
+~~~
+
 ### Quokka
 ~~~
 Перевіряє правильність написання JavaScript коду.
